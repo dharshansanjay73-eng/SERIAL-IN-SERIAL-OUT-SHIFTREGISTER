@@ -73,7 +73,7 @@ Developed by:Dharshan sanjay  RegisterNumber:212225040070
 
 **TIMING DIGRAMS FOR SISO Shift Register**
 
-<img width="1920" height="922" alt="Screenshot 2026-06-02 184925" src="https://github.com/user-attachments/assets/3308d01c-3a80-4ef5-a5b9-d938c52e25b9" />
+<img width="1795" height="958" alt="{A6B1E68C-C6A0-4CEC-A5A0-D0467D8B590A}" src="https://github.com/user-attachments/assets/56632252-760d-43c1-8551-6d8c193eb89b" />
 
 
 **RESULTS**
